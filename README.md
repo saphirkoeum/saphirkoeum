@@ -1,12 +1,12 @@
 ### Hi there 👋
 
 
-- 🤔 I’m looking for a 6 months intership around Paris
+- 🤔 I’m looking for a 6 months intership around Paris, Ile-de-France.
 - 🌱 I’m currently learning Vanilla JS & WordPress
-- 👯 I’m looking to collaborate on various project
-- 💬 Ask me about .
+- 👯 I’m looking to collaborate on various project.
+- 💬 Ask me about anything.
 - 📫 
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I like to bake, embrodery & photographie.
 
 
 <!--
