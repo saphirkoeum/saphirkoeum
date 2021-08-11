@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate on various project.
 - 💬 Ask me about anything.
 - 📫 
-- ⚡ Fun fact: I like to bake, embrodery & photographie.
+- ⚡ Fun fact: I like to bake, embrodery & photography. 
 
 
 <!--
